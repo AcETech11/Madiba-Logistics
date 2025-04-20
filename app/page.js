@@ -5,8 +5,6 @@ import Testimonial from "./Components/Testimonial";
 import What_We_Do from "./Components/What_We_Do";
 import Why_Us from "./Components/why_Us";
 import Contact from "./Components/Contact";
-import Blog from "./Components/Blog";
-
 export default function Home() {
   return (
     <>
@@ -16,7 +14,6 @@ export default function Home() {
     <Our_Project />
     <Testimonial/>
     <Contact/>
-    {/* <Blog/> */}
     </>
         
   );
