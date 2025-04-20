@@ -9,7 +9,7 @@ const Contact = () => {
         <div className='contact_title'>
             <h2 className='hightLight'>Contact</h2>
             <p className='touch'>Get In Touch</p>
-            <p className='subtitle'>"Thank you for your interest. Please fill out the form below, and we will promptly get in touch to discuss your warehousing, distribution, air, ocean freight, or other logistics requirements."</p>
+            <p className='subtitle'>Thank you for your interest. Please fill out the form below, and we will promptly get in touch to discuss your warehousing, distribution, air, ocean freight, or other logistics requirements.</p>
           
                     <div className='contact'>
                         <BiLogoGmail className='contact_icon' />
